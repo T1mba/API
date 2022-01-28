@@ -1,0 +1,11 @@
+GET http://localhost:8080/Agent
+Authorization: Basic tigimbaev 020703
+
+###
+
+DELETE http://localhost:8080/ProductSale?id=1
+Authorization: Basic tigimbaev 020703
+
+### 
+POST http://localhost:8080/ProductSale
+Authorization: Basic tigimbaev 020703
